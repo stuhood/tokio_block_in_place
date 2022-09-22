@@ -1,0 +1,8 @@
+[toolchain]
+channel = "1.63.0"
+components = [
+  "cargo",
+  "rust-std",
+  "rustc",
+  "rustfmt",
+]
